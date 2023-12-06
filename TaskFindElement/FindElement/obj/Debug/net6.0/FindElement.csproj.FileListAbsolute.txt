@@ -1,0 +1,14 @@
+E:\EpsiFund\TaskFindElement\FindElement\bin\Debug\net6.0\FindElement.exe
+E:\EpsiFund\TaskFindElement\FindElement\bin\Debug\net6.0\FindElement.deps.json
+E:\EpsiFund\TaskFindElement\FindElement\bin\Debug\net6.0\FindElement.runtimeconfig.json
+E:\EpsiFund\TaskFindElement\FindElement\bin\Debug\net6.0\FindElement.dll
+E:\EpsiFund\TaskFindElement\FindElement\bin\Debug\net6.0\FindElement.pdb
+E:\EpsiFund\TaskFindElement\FindElement\obj\Debug\net6.0\FindElement.GeneratedMSBuildEditorConfig.editorconfig
+E:\EpsiFund\TaskFindElement\FindElement\obj\Debug\net6.0\FindElement.AssemblyInfoInputs.cache
+E:\EpsiFund\TaskFindElement\FindElement\obj\Debug\net6.0\FindElement.AssemblyInfo.cs
+E:\EpsiFund\TaskFindElement\FindElement\obj\Debug\net6.0\FindElement.csproj.CoreCompileInputs.cache
+E:\EpsiFund\TaskFindElement\FindElement\obj\Debug\net6.0\FindElement.dll
+E:\EpsiFund\TaskFindElement\FindElement\obj\Debug\net6.0\refint\FindElement.dll
+E:\EpsiFund\TaskFindElement\FindElement\obj\Debug\net6.0\FindElement.pdb
+E:\EpsiFund\TaskFindElement\FindElement\obj\Debug\net6.0\FindElement.genruntimeconfig.cache
+E:\EpsiFund\TaskFindElement\FindElement\obj\Debug\net6.0\ref\FindElement.dll
